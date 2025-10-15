@@ -1,0 +1,10 @@
+{
+  "carrier": "PKP Intercity",
+  "train": "IC 3510",
+  "from": "Warszawa Centralna",
+  "to": "Kraków Główny",
+  "seat": "12B",
+  "pricePLN": 90,
+  "discounts": ["student"],
+  "isReturnTicket": false
+}
