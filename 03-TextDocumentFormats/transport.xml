@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport type="car" fuel="petrol">
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <year>2021</year>
+        <color>Blue</color>
+        <details>
+            <seats>5</seats>
+            <transmission>automatic</transmission>
+        </details>
+    </transport>
+
+    <transport type="bike" gear="7" brake="disc">
+        <brand>Cube</brand>
+        <model>Nature</model>
+        <year>2020</year>
+        <color>Green</color>
+        <details>
+            <frame>aluminium</frame>
+            <weight unit="kg">14</weight>
+        </details>
+    </transport>
+
+    <transport type="tram" line="9" power="electric">
+        <brand>Pesa</brand>
+        <model>Jazz Duo</model>
+        <year>2019</year>
+        <color>Yellow</color>
+        <details>
+            <capacity>200</capacity>
+            <speed unit="km/h">70</speed>
+        </details>
+    </transport>
+</transports>

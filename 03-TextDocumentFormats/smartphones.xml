@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+     <smartphone brand="Apple" model="iPhone 16 Pro" releaseYear="2024">
+        <specs>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">3274</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">48</camera>
+        </specs>
+        <price currency="PLN">5999</price>
+    </smartphone>
 </smartphones>
