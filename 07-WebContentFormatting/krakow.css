@@ -1,0 +1,23 @@
+thead {
+    background-color:aquamarine;
+
+}
+td, th {
+    padding: 10px; /* odstęp 10 pikseli wewnątrz komórki */
+    color: navy;
+}
+
+table {
+    border-collapse: solid; /* usuwa podwójne linie między komórkami */
+    border: 2px solid black; /* obramowanie tabeli */
+}
+
+th landmark {
+    width: 25%;
+}
+th significance {
+    width: 40%;
+}
+tr:hover {
+  background-color: red; /* delikatne podświetlenie */
+}
